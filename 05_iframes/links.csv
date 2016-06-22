@@ -1,0 +1,132 @@
+source,target
+News,Orlando
+News,America
+Orlando,America
+U.S.,Around the Nation
+U.S.,News
+Around the Nation,News
+Business,Around the Nation
+Business,U.S.
+Business,News
+Politics,News
+Politics,Elections
+Politics,Donald Trump
+Politics,America
+News,Elections
+News,Donald Trump
+Elections,Donald Trump
+Elections,America
+Donald Trump,America
+Africa,Global Health
+Africa,News
+Global Health,News
+Book Reviews,Books
+Book Reviews,Arts & Life
+Books,Arts & Life
+Politics,Around the Nation
+Politics,U.S.
+U.S.,Orlando
+U.S.,America
+Orlando,Around the Nation
+America,Around the Nation
+Arts & Life,Around the Nation
+Science,Music
+Science,Around the Nation
+Science,Books
+Science,Race
+Science,Arts & Life
+Science,U.S.
+Science,News
+Music,Around the Nation
+Music,Books
+Music,Race
+Music,Arts & Life
+Music,U.S.
+Music,News
+Around the Nation,Books
+Around the Nation,Race
+Books,Race
+Books,U.S.
+Books,News
+Race,Arts & Life
+Race,U.S.
+Race,News
+Arts & Life,U.S.
+Arts & Life,News
+America,Business
+Environment,News
+Environment,America
+Environment,Around the Nation
+Environment,U.S.
+Orlando,Music
+World,International
+World,Race
+World,Politics
+World,U.S.
+World,News
+International,Race
+International,Politics
+International,U.S.
+International,News
+Race,Politics
+World,Middle East
+News,Middle East
+International,Middle East
+Games & Humor,Arts & Life
+Author Interviews,Fiction
+Author Interviews,Books
+Author Interviews,Arts & Life
+Fiction,Books
+Fiction,Arts & Life
+Health,Medical Treatments
+Health,Around the Nation
+Health,Health Care
+Health,U.S.
+Health,News
+Medical Treatments,Around the Nation
+Medical Treatments,Health Care
+Medical Treatments,U.S.
+Medical Treatments,News
+Around the Nation,Health Care
+Health Care,U.S.
+Health Care,News
+Book Reviews,Fiction
+Race,Remembrances
+Race,Sports
+Remembrances,Sports
+Remembrances,U.S.
+Remembrances,News
+Sports,U.S.
+Sports,News
+U.S.,Law
+America,Law
+America,Science
+Around the Nation,Law
+Law,Environment
+Law,Science
+Law,Business
+Law,News
+Environment,Science
+Environment,Business
+Science,Business
+Sports,International
+Global Health,Health
+Global Health,World
+Health,World
+Elections,U.S.
+Donald Trump,U.S.
+Remembrances,America
+America,Sports
+Sports,Around the Nation
+Sports,Business
+Health,Business
+Health Care,Business
+Medical Treatments,Business
+Environment,International
+Environment,World
+America,International
+America,World
+International,Science
+Science,World
+World,Business
+International,Business
