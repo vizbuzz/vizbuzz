@@ -1,0 +1,138 @@
+,source,target
+0,News,Around the Nation
+1,News,U.S.
+2,Around the Nation,U.S.
+3,News,Law
+4,Around the Nation,Law
+5,Law,U.S.
+6,World,U.S.
+7,World,Asia
+8,World,News
+9,U.S.,Asia
+10,Asia,News
+11,Food,History
+12,Food,Around the Nation
+13,Food,Race
+14,Food,U.S.
+15,Food,News
+16,History,Around the Nation
+17,History,Race
+18,History,U.S.
+19,History,News
+20,Around the Nation,Race
+21,Race,U.S.
+22,Race,News
+23,Games & Humor,"Weekend Edition Sunday for June 19, 2016"
+24,World,"Weekend Edition Sunday for June 19, 2016"
+25,"Weekend Edition Sunday for June 19, 2016",Asia
+26,Books,"Weekend Edition Sunday for June 19, 2016"
+27,Books,Arts & Life
+28,"Weekend Edition Sunday for June 19, 2016",Arts & Life
+29,Music,"Weekend Edition Sunday for June 19, 2016"
+30,Music,Music Interviews
+31,"Weekend Edition Sunday for June 19, 2016",Music Interviews
+32,U.S.,"Weekend Edition Sunday for June 19, 2016"
+33,"Weekend Edition Sunday for June 19, 2016",Around the Nation
+34,"Weekend Edition Sunday for June 19, 2016",News
+35,Asia,Opinion
+36,Asia,Commentary
+37,Asia,Global Health
+38,Opinion,Commentary
+39,Opinion,Global Health
+40,Opinion,News
+41,Commentary,Global Health
+42,Commentary,News
+43,Global Health,News
+44,Health,Global Health
+45,Health,Children's Health
+46,Health,Around the Nation
+47,Health,U.S.
+48,Health,News
+49,Global Health,Children's Health
+50,Global Health,Around the Nation
+51,Global Health,U.S.
+52,Children's Health,Around the Nation
+53,Children's Health,U.S.
+54,Children's Health,News
+55,Book Reviews,Books
+56,Book Reviews,Arts & Life
+57,Politics,Elections
+58,Politics,Donald Trump
+59,Politics,Republicans
+60,Politics,U.S.
+61,Politics,News
+62,Elections,Donald Trump
+63,Elections,Republicans
+64,Elections,U.S.
+65,Elections,News
+66,Donald Trump,Republicans
+67,Donald Trump,U.S.
+68,Donald Trump,News
+69,Republicans,U.S.
+70,Republicans,News
+71,History,Arts & Life
+72,Race,Arts & Life
+73,World,Around the Nation
+74,World,Law
+75,News,International
+76,International,World
+77,World,Health
+78,International,Health
+79,Race,Commentary
+80,Race,Opinion
+81,Around the Nation,Commentary
+82,Around the Nation,Opinion
+83,Commentary,U.S.
+84,Opinion,U.S.
+85,Games & Humor,Arts & Life
+86,World,Latin America
+87,World,Sports
+88,News,Latin America
+89,News,Sports
+90,International,Latin America
+91,International,Sports
+92,Latin America,Sports
+93,World,Elections
+94,World,Race
+95,World,Politics
+96,Elections,Around the Nation
+97,Elections,Race
+98,Around the Nation,Politics
+99,Race,Politics
+100,Health,"Weekend Edition Saturday for June 18, 2016"
+101,"Weekend Edition Saturday for June 18, 2016",Around the Nation
+102,"Weekend Edition Saturday for June 18, 2016",U.S.
+103,"Weekend Edition Saturday for June 18, 2016",News
+104,"Weekend Edition Saturday for June 18, 2016",Arts & Life
+105,Education,Around the Nation
+106,Education,U.S.
+107,Education,News
+108,Commentary,Food
+109,Commentary,Games & Humor
+110,Commentary,Arts & Life
+111,Opinion,Food
+112,Opinion,Games & Humor
+113,Opinion,Arts & Life
+114,Food,Games & Humor
+115,Food,Arts & Life
+116,Games & Humor,News
+117,Arts & Life,News
+118,"Weekend Edition Saturday for June 18, 2016",History
+119,"Weekend Edition Saturday for June 18, 2016",Books
+120,History,Books
+121,Global Health,World
+122,Politics,Education
+123,Elections,Education
+124,Donald Trump,Education
+125,Republicans,Education
+126,Health,Food
+127,Politics,Law
+128,Republicans,Law
+129,World,Opinion
+130,World,Commentary
+131,Law,International
+132,Law,History
+133,International,History
+134,History,World
+135,Around the Nation,Arts & Life
+136,Arts & Life,U.S.
